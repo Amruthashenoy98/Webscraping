@@ -1,6 +1,6 @@
 
 # Webscraping to collect data from Ajio and Smartprix websites
-
+*The web scraping in this project was done using Selenium and Beautiful Soup.*
 ## Bag Dataset from Ajio
 
 This dataset contains information about different bags from various brands, scraped from the Smartprix website. The dataset includes details such as brand, style, original price, and offer price.
